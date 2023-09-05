@@ -1,0 +1,6 @@
+name,house_id,house_type,bhk_details,occupancy,furnishing_type
+"Zaanz appartment",1,Apartment,"3 BHK",3,unfurnished
+"UDB Building",7,Apartment,"3 BHK",3,semifurnished
+"Apoorva society",8,Apartment,"2 BHK",3,fully-furnished
+"Nestaway building",14,Apartment,"3 BHK",3,fully-furnished
+"Indira society",16,Apartment,"3 BHK",3,fully-furnished
